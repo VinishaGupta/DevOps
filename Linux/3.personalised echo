@@ -26,3 +26,5 @@ Welcome Prashant
 
 ==================================================================
 
+read name
+echo Welcome $name
